@@ -1,0 +1,242 @@
+extends layout
+
+block content-1
+    h1#h1-sample=sample.FlowID
+    table
+        tr
+            td Dst Port
+            td=sample.DstPort
+        tr
+            td Protocol
+            td=sample.Protocol
+        tr
+            td Timestamp
+            td=sample.Timestamp
+        tr
+            td Flow Duration
+            td=sample.FlowDuration
+        tr
+            td Tot Fwd Pkts
+            td=sample.TotFwdPkts
+        tr
+            td Tot Bwd Pkts
+            td=sample.TotBwdPkts
+        tr
+            td TotLen Fwd Pkts
+            td=sample.TotLenFwdPkts
+        tr
+            td TotLen Bwd Pkts
+            td=sample.TotLenBwdPkts
+        tr
+            td Fwd Pkt Len Max
+            td=sample.FwdPktLenMax
+        tr
+            td Fwd Pkt Len Min
+            td=sample.FwdPktLenMin
+        tr
+            td Fwd Pkt Len Mean
+            td=sample.FwdPktLenMean
+        tr
+            td Fwd Pkt Len Std
+            td=sample.FwdPktLenStd
+        tr
+            td Bwd Pkt Len Max
+            td=sample.BwdPktLenMax
+        tr
+            td Bwd Pkt Len Min
+            td=sample.BwdPktLenMin
+        tr
+            td Bwd Pkt Len Mean
+            td=sample.BwdPktLenMean
+        tr
+            td Bwd Pkt Len Std
+            td=sample.BwdPktLenStd
+        tr
+            td Flow Byts/s
+            td=sample.FlowBytss
+        tr
+            td Flow Pkts/s
+            td=sample.FlowPktss
+        tr
+            td Flow IAT Mean
+            td=sample.FlowIATMean
+        tr
+            td Flow IAT Std
+            td=sample.FlowIATStd
+        tr
+            td Flow IAT Max
+            td=sample.FlowIATMax
+        tr
+            td Flow IAT Min
+            td=sample.FlowIATMin
+        tr
+            td Fwd IAT Tot
+            td=sample.FwdIATTot
+        tr
+            td Fwd IAT Mean
+            td=sample.FwdIATMean
+        tr
+            td Fwd IAT Std
+            td=sample.FwdIATStd
+        tr
+            td Fwd IAT Max
+            td=sample.FwdIATMax
+        tr
+            td Fwd IAT Min
+            td=sample.FwdIATMin
+        tr
+            td Bwd IAT Tot
+            td=sample.BwdIATTot
+        tr
+            td Bwd IAT Mean
+            td=sample.BwdIATMean
+        tr
+            td Bwd IAT Std
+            td=sample.BwdIATStd
+        tr
+            td Bwd IAT Max
+            td=sample.BwdIATMax
+        tr
+            td Bwd IAT Min
+            td=sample.BwdIATMin
+        tr
+            td Fwd PSH Flags
+            td=sample.FwdPSHFlags
+        tr
+            td Bwd PSH Flags
+            td=sample.BwdPSHFlags
+        tr
+            td Fwd URG Flags
+            td=sample.FwdURGFlags
+        tr
+            td Bwd URG Flags
+            td=sample.BwdURGFlags
+        tr
+            td Fwd Header Len
+            td=sample.FwdHeaderLen
+        tr
+            td Bwd Header Len
+            td=sample.BwdHeaderLen
+        tr
+            td Fwd Pkts/s
+            td=sample.FwdPktss
+        tr
+            td Bwd Pkts/s
+            td=sample.BwdPktss
+        tr
+            td Pkt Len Min
+            td=sample.PktLenMin
+        tr
+            td Pkt Len Max
+            td=sample.PktLenMax
+        tr
+            td Pkt Len Mean
+            td=sample.PktLenMean
+        tr
+            td Pkt Len Std
+            td=sample.PktLenStd
+        tr
+            td Pkt Len Var
+            td=sample.PktLenVar
+        tr
+            td FIN Flag Cnt
+            td=sample.FINFlagCnt
+        tr
+            td SYN Flag Cnt
+            td=sample.SYNFlagCnt
+        tr
+            td RST Flag Cnt
+            td=sample.RSTFlagCnt
+        tr
+            td PSH Flag Cnt
+            td=sample.PSHFlagCnt
+        tr
+            td ACK Flag Cnt
+            td=sample.ACKFlagCnt
+        tr
+            td URG Flag Cnt
+            td=sample.URGFlagCnt
+        tr
+            td CWE Flag Count
+            td=sample.CWEFlagCount
+        tr
+            td ECE Flag Cnt
+            td=sample.ECEFlagCnt
+        tr
+            td Down/Up Ratio
+            td=sample.DownUpRation
+        tr
+            td Pkt Size Avg
+            td=sample.PktSizeAvg
+        tr
+            td Fwd Seg Size Avg
+            td=sample.FwdSegSizeAvg
+        tr
+            td Bwd Seg Size Avg
+            td=sample.BwdSegSizeAvg
+        tr
+            td Fwd Byts/b Avg
+            td=sample.FwdBytsbAvg
+        tr
+            td Fwd Pkts/b Avg
+            td=sample.FwdPktsbAvg
+        tr
+            td Fwd Blk Rate Avg
+            td=sample.FwdBlkRateAvg
+        tr
+            td Bwd Byts/b Avg
+            td=sample.BwdBytsbAvg
+        tr
+            td Bwd Pkts/b Avg
+            td=sample.BwdPktsbAvg
+        tr
+            td Bwd Blk Rate Avg
+            td=sample.BwdBlkRateAvg
+        tr
+            td Subflow Fwd Pkts
+            td=sample.SubflowFwdPkts
+        tr
+            td Subflow Fwd Byts
+            td=sample.SubflowFwdByts
+        tr
+            td Subflow Bwd Pkts
+            td=sample.SubflowBwdPkts
+        tr
+            td Subflow Bwd Byts
+            td=sample.SubflowBwdBytes
+        tr
+            td Init Fwd Win Byts
+            td=sample.InitFwdWinByts
+        tr
+            td Init Bwd Win Byts
+            td=sample.InitBwdWinByts
+        tr
+            td Fwd Act Data Pkts
+            td=sample.FwdActDataPkts
+        tr
+            td Fwd Seg Size Min
+            td=sample.FwdSegSizeMin
+        tr
+            td Active Mean
+            td=sample.ActiveMean
+        tr
+            td Active Std
+            td=sample.ActiveStd
+        tr
+            td Active Max
+            td=sample.ActiveMax
+        tr
+            td Active Min
+            td=sample.ActiveMin
+        tr
+            td Idle Mean
+            td=sample.IdleMean
+        tr
+            td Idle Std
+            td=sample.IdleStd
+        tr
+            td Idle Max
+            td=sample.IdleMax
+        tr
+            td Idle Min
+            td=sample.IdleMin

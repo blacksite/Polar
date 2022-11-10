@@ -1,0 +1,177 @@
+a {
+    color: #8b2333;
+}
+
+a:hover, a:focus {
+    color: #23282a;
+}
+
+#header {
+    width: 100%;
+    collapse: collapse;
+}
+
+#top-header {
+    width: 100%;
+    background-color: gold;
+    height: 100px;
+    display: table;
+    collapse: collapse;
+    color: blue;
+}
+
+#top-header h2 {
+    display: table-cell;
+    vertical-align: middle;
+    color: blue;
+    padding-left: 20px;
+}
+
+#top-header a, #top-header a:hover, #top-header a:focus {
+    color: blue!important;
+    text-decoration: none;
+}
+
+#h1-sample {
+    text-align: center;
+}
+
+table {
+    border: 1px black solid;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+th, td {
+    border: 1px black solid;
+    border-collapse: collapse;
+    padding: 5px 10px;
+}
+
+#footer {
+    width: 100%;
+    background-color: gold;
+}
+
+.btn-primary, .btn-primary:hover, .btn-primary:focus {
+    margin: 5px;
+}
+
+.btn-malicious {
+    background-color: red!important;
+    border-color: red!important;
+}
+
+.btn-malicious:hover {
+    background-color: darkred!important;
+    border-color: darkred!important;
+}
+
+.footer-li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer-ul {
+    padding: 0px;
+    color: blue;
+}
+
+.footer-li a {
+    color: blue;
+}
+
+.footer-li a:hover {
+    color: lightgray;
+    text-decoration: none;
+}
+
+#user-nav-link {
+    float: right;
+    padding: 30px;
+}
+
+#user-dropdown > a:hover, #user-dropdown > a:focus, #user-dropdown > a{
+    background-image: none !important;
+    background-color: white !important;
+    color: #23282a!important;
+    cursor: pointer;
+}
+
+#inner-overlay-div {
+    background-color: lightgray;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.form-table, .form-table tr, .form-table td {
+    margin: 0 auto;
+    padding: 0;
+    border: none;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.overlay {
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
+
+.outer-overlay-div {
+    position: relative;
+}
+
+#overlay-title {
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px black solid;
+}
+
+.hidden {
+    display: none;
+}
+
+#overlay-table {
+    width: 100%;
+    border: none!important;
+}
+
+#overlay-table td{
+    padding: 10px;
+    border: none!important;
+}
+
+.btn-submit {
+    width: 100%;
+}
+
+.form-group {
+    margin: 10px;
+}
+
+.overlay-input {
+    width: 100%;
+}
+
+#form-div {
+    background-color: lightgray;
+    width: 900px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.form-group td {
+    padding: 10px;
+}

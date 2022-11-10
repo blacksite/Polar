@@ -1,0 +1,30 @@
+extends layout
+
+block content-1
+    h1#h1-sample Suspected Network Samples
+    table
+        tr
+            th Flow ID
+            th Src IP
+            th Src Port
+            th Dst IP
+            th Dst Port
+            th Protocol
+            th Timestamp
+            th Flow Duration
+            th Decision
+
+        each s in samples
+            a(href='/' + s.FlowID)
+                tr
+                    td=s.FlowID
+                    td=s.SrcIP
+                    td=s.SrcPort
+                    td=s.DstIP
+                    td=s.DstPort
+                    td=s.Protocol
+                    td=s.Timestamp
+                    td=s.FlowDuration
+                    td
+                        btn.btn.btn-primary.btn-normal Normal
+                        button.btn.btn-primary.btn-malicious Malicious

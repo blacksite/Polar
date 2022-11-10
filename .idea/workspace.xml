@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0662f7a-ab1b-4bd0-b12b-e8a88cc5b1b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1f3Z9COtfX3Owxd50OdFiTNwTuH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.16.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Jina" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\Polar\views" />
+      <recent name="D:\OneDrive - shawu.edu\Web Server\Shaw_CS_Courses\public\javascripts\courses" />
+      <recent name="D:\OneDrive - shawu.edu\Web Server\Shaw_CS_Courses\views\courses" />
+      <recent name="D:\OneDrive - shawu.edu\Web Server\Shaw_CS_Courses\routes" />
+      <recent name="C:\Users\James\OneDrive - shawu.edu\Web Server\Shaw_CS_Courses\routes" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\Shaw University\Web Server\Shaw_CS_Courses\views\courses" />
+      <recent name="D:\OneDrive\Shaw University\Shaw_CS_Courses\views\industry" />
+      <recent name="D:\OneDrive\Shaw University\Shaw_CS_Courses\routes" />
+      <recent name="D:\OneDrive\Shaw University\Shaw_CS_Courses\public\images\people\faculty" />
+      <recent name="D:\OneDrive\Shaw University\Shaw_CS_Courses\views\people\faculty" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0662f7a-ab1b-4bd0-b12b-e8a88cc5b1b2" name="Default Changelist" comment="" />
+      <created>1595448582186</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595448582186</updated>
+      <workItem from="1595448609214" duration="28763000" />
+      <workItem from="1595539033562" duration="471000" />
+      <workItem from="1595541904871" duration="3361000" />
+      <workItem from="1595600161124" duration="19071000" />
+      <workItem from="1595623427374" duration="362000" />
+      <workItem from="1595646402240" duration="609000" />
+      <workItem from="1595659263382" duration="9266000" />
+      <workItem from="1595696217160" duration="4802000" />
+      <workItem from="1595781629130" duration="1799000" />
+      <workItem from="1595877487931" duration="185000" />
+      <workItem from="1595886481255" duration="669000" />
+      <workItem from="1595887696207" duration="294000" />
+      <workItem from="1595951033981" duration="12522000" />
+      <workItem from="1596041511360" duration="3136000" />
+      <workItem from="1596130618938" duration="2254000" />
+      <workItem from="1596141146398" duration="611000" />
+      <workItem from="1596209195342" duration="1975000" />
+      <workItem from="1596298999540" duration="633000" />
+      <workItem from="1596555587346" duration="645000" />
+      <workItem from="1596729668185" duration="7843000" />
+      <workItem from="1597623356059" duration="768000" />
+      <workItem from="1597624307938" duration="32000" />
+      <workItem from="1597861475740" duration="1020000" />
+      <workItem from="1597863053339" duration="1615000" />
+      <workItem from="1597864720465" duration="36000" />
+      <workItem from="1598638271135" duration="950000" />
+      <workItem from="1598890895084" duration="1158000" />
+      <workItem from="1598987991125" duration="75000" />
+      <workItem from="1599052243522" duration="1553000" />
+      <workItem from="1599063721026" duration="1046000" />
+      <workItem from="1599076750975" duration="33000" />
+      <workItem from="1599076817658" duration="4000" />
+      <workItem from="1599076901469" duration="624000" />
+      <workItem from="1599174335729" duration="47000" />
+      <workItem from="1599261758001" duration="4004000" />
+      <workItem from="1599416002042" duration="484000" />
+      <workItem from="1599416728277" duration="1069000" />
+      <workItem from="1599450416498" duration="16000" />
+      <workItem from="1599498856941" duration="1983000" />
+      <workItem from="1599582946890" duration="14557000" />
+      <workItem from="1599604560545" duration="3999000" />
+      <workItem from="1599670218454" duration="1303000" />
+      <workItem from="1599674954447" duration="8341000" />
+      <workItem from="1599760404827" duration="547000" />
+      <workItem from="1599782698432" duration="1627000" />
+      <workItem from="1599784950150" duration="1171000" />
+      <workItem from="1599786512769" duration="1554000" />
+      <workItem from="1600625809374" duration="86000" />
+      <workItem from="1600625936464" duration="9000" />
+      <workItem from="1601253165966" duration="1182000" />
+      <workItem from="1602081304985" duration="284000" />
+      <workItem from="1602189407125" duration="1495000" />
+      <workItem from="1604088776035" duration="62000" />
+      <workItem from="1604088853974" duration="12000" />
+      <workItem from="1607352852528" duration="11487000" />
+      <workItem from="1607439650361" duration="4331000" />
+      <workItem from="1607446025130" duration="132000" />
+      <workItem from="1610165107467" duration="66000" />
+      <workItem from="1610376090860" duration="734000" />
+      <workItem from="1610492540100" duration="35000" />
+      <workItem from="1610566515356" duration="2181000" />
+      <workItem from="1610569286430" duration="1661000" />
+      <workItem from="1610650164114" duration="14000" />
+      <workItem from="1610729989476" duration="53000" />
+      <workItem from="1610809217235" duration="8000" />
+      <workItem from="1612209902668" duration="119000" />
+      <workItem from="1613509957777" duration="816000" />
+      <workItem from="1613518596115" duration="10000" />
+      <workItem from="1628958384825" duration="2702000" />
+      <workItem from="1628962157029" duration="5878000" />
+      <workItem from="1629037775498" duration="632000" />
+      <workItem from="1629082547495" duration="915000" />
+      <workItem from="1629677678611" duration="142000" />
+      <workItem from="1633304180695" duration="7577000" />
+      <workItem from="1635004905174" duration="873000" />
+      <workItem from="1635100946196" duration="1924000" />
+      <workItem from="1635800403670" duration="931000" />
+      <workItem from="1636413159770" duration="758000" />
+      <workItem from="1643227451034" duration="931000" />
+      <workItem from="1645144916422" duration="443000" />
+      <workItem from="1645405925746" duration="653000" />
+      <workItem from="1645543257266" duration="2500000" />
+      <workItem from="1656020643575" duration="42000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1656020683409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/-1920.0.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1656020683409" />
+  </component>
+</project>
